@@ -1,3 +1,5 @@
+https://anastasia-77.github.io/taxi-fare-interface/
+
 # NY Taxi Fare prediction interface
 
 ![](images/snapshot.png)
